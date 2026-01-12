@@ -70,4 +70,4 @@ PDF embeddings stored in Milvus
 
 Stop Milvus:
 
-```bash standalone_embed.sh stop
+```bash standalone_embed.sh stop```
