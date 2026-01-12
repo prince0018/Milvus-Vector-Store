@@ -63,13 +63,7 @@ PDF embeddings stored in Milvus
 
 ---
 
-## Notes
 
-- Milvus collection is equivalent to an Elasticsearch index  
-- Milvus stores text chunks, not entire PDFs  
-- Docker runtime files are ignored via `.gitignore`
-
----
 
 Stop Milvus:
 
