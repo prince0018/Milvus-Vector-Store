@@ -21,9 +21,11 @@ cd Milvus-Vector-Store
 
 Start Milvus using Docker:
 
-```curl -sfL https://raw.githubusercontent.com/milvus-io/milvus/master/scripts/standalone_embed.sh -o standalone_embed.sh  ```
+```bash curl -sfL https://raw.githubusercontent.com/milvus-io/milvus/master/scripts/standalone_embed.sh -o standalone_embed.sh  ```
+
 
 ```bash standalone_embed.sh start  ```
+
 
 Milvus will be available at localhost:19530
 
