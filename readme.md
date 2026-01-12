@@ -51,7 +51,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ## Usage
 
-1. Place your PDF file inside the `data/` directory  
+1. Place your PDF file inside the `src/` directory  
 2. Update the PDF path in `src/index.py` if needed  
 3. Run the script:
 
@@ -74,3 +74,4 @@ PDF embeddings stored in Milvus
 Stop Milvus:
 
 ```bash standalone_embed.sh stop```
+..
