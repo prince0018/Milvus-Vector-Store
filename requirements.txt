@@ -1,0 +1,7 @@
+langchain 
+langchain-community 
+langchain-openai 
+langchain-milvus 
+pymilvus 
+pypdf 
+python-dotenv
